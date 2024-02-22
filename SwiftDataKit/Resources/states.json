@@ -1,0 +1,502 @@
+[
+    {
+        "abbr": "AL",
+        "name": "Alabama",
+        "capital": "Montgomery",
+        "lat": "32.361538",
+        "long": "-86.279118",
+        "continent": "North America",
+        "flag": "Flag_of_Alabama",
+	"type": "state"
+    },
+    {
+        "abbr": "AK",
+        "name": "Alaska",
+        "capital": "Juneau",
+        "lat": "58.301935",
+        "long": "-134.419740",
+        "continent": "North America",
+        "flag": "Flag_of_Alaska",
+	"type": "state"
+    },
+    {
+        "abbr": "AZ",
+        "name": "Arizona",
+        "capital": "Phoenix",
+        "lat": "33.448457",
+        "long": "-112.073844",
+        "continent": "North America",
+        "flag": "Flag_of_Arizona",
+	"type": "state"
+    },
+    {
+        "abbr": "AR",
+        "name": "Arkansas",
+        "capital": "Little Rock",
+        "lat": "34.736009",
+        "long": "-92.331122",
+        "continent": "North America",
+        "flag": "Flag_of_Arkansas",
+	"type": "state"
+    },
+    {
+        "abbr": "CA",
+        "name": "California",
+        "capital": "Sacramento",
+        "lat": "38.555605",
+        "long": "-121.468926",
+        "continent": "North America",
+        "flag": "Flag_of_California",
+	"type": "state"
+    },
+    {
+        "abbr": "CO",
+        "name": "Colorado",
+        "capital": "Denver",
+        "lat": "39.7391667",
+        "long": "-104.984167",
+        "continent": "North America",
+        "flag": "Flag_of_Colorado",
+	"type": "state"
+    },
+    {
+        "abbr": "CT",
+        "name": "Connecticut",
+        "capital": "Hartford",
+        "lat": "41.767",
+        "long": "-72.677",
+        "continent": "North America",
+        "flag": "Flag_of_Connecticut",
+	"type": "state"
+    },
+    {
+        "abbr": "DE",
+        "name": "Delaware",
+        "capital": "Dover",
+        "lat": "39.161921",
+        "long": "-75.526755",
+        "continent": "North America",
+        "flag": "Flag_of_Delaware",
+	"type": "state"
+    },
+    {
+        "abbr": "FL",
+        "name": "Florida",
+        "capital": "Tallahassee",
+        "lat": "30.4518",
+        "long": "-84.27277",
+        "continent": "North America",
+        "flag": "Flag_of_Florida",
+	"type": "state"
+    },
+    {
+        "abbr": "GA",
+        "name": "Georgia",
+        "capital": "Atlanta",
+        "lat": "33.76",
+        "long": "-84.39",
+        "continent": "North America",
+        "flag": "Flag_of_Georgia_US",
+	"type": "state"
+    },
+    {
+        "abbr": "HI",
+        "name": "Hawaii",
+        "capital": "Honolulu",
+        "lat": "21.30895",
+        "long": "-157.826182",
+        "continent": "North America",
+        "flag": "Flag_of_Hawaii",
+	"type": "state"
+    },
+    {
+        "abbr": "ID",
+        "name": "Idaho",
+        "capital": "Boise",
+        "lat": "43.613739",
+        "long": "-116.237651",
+        "continent": "North America",
+        "flag": "Flag_of_Idaho",
+	"type": "state"
+    },
+    {
+        "abbr": "IL",
+        "name": "Illinois",
+        "capital": "Springfield",
+        "lat": "39.783250",
+        "long": "-89.650373",
+        "continent": "North America",
+        "flag": "Flag_of_Illinois",
+	"type": "state"
+    },
+    {
+        "abbr": "IN",
+        "name": "Indiana",
+        "capital": "Indianapolis",
+        "lat": "39.790942",
+        "long": "-86.147685",
+        "continent": "North America",
+        "flag": "Flag_of_Indiana",
+	"type": "state"
+    },
+    {
+        "abbr": "IA",
+        "name": "Iowa",
+        "capital": "Des Moines",
+        "lat": "41.590939",
+        "long": "-93.620866",
+        "continent": "North America",
+        "flag": "Flag_of_Iowa",
+	"type": "state"
+    },
+    {
+        "abbr": "KS",
+        "name": "Kansas",
+        "capital": "Topeka",
+        "lat": "39.04",
+        "long": "-95.69",
+        "continent": "North America",
+        "flag": "Flag_of_Kansas",
+	"type": "state"
+    },
+    {
+        "abbr": "KY",
+        "name": "Kentucky",
+        "capital": "Frankfort",
+        "lat": "38.197274",
+        "long": "-84.86311",
+        "continent": "North America",
+        "flag": "Flag_of_Kentucky",
+	"type": "state"
+    },
+    {
+        "abbr": "LA",
+        "name": "Louisiana",
+        "capital": "Baton Rouge",
+        "lat": "30.45809",
+        "long": "-91.140229",
+        "continent": "North America",
+        "flag": "Flag_of_Louisiana",
+	"type": "state"
+    },
+    {
+        "abbr": "ME",
+        "name": "Maine",
+        "capital": "Augusta",
+        "lat": "44.323535",
+        "long": "-69.765261",
+        "continent": "North America",
+        "flag": "Flag_of_Maine",
+	"type": "state"
+    },
+    {
+        "abbr": "MD",
+        "name": "Maryland",
+        "capital": "Annapolis",
+        "lat": "38.972945",
+        "long": "-76.501157",
+        "continent": "North America",
+        "flag": "Flag_of_Maryland",
+	"type": "state"
+    },
+    {
+        "abbr": "MA",
+        "name": "Massachusetts",
+        "capital": "Boston",
+        "lat": "42.2352",
+        "long": "-71.0275",
+        "continent": "North America",
+        "flag": "Flag_of_Massachusetts",
+	"type": "state"
+    },
+    {
+        "abbr": "MI",
+        "name": "Michigan",
+        "capital": "Lansing",
+        "lat": "42.7335",
+        "long": "-84.5467",
+        "continent": "North America",
+        "flag": "Flag_of_Michigan",
+	"type": "state"
+    },
+    {
+        "abbr": "MN",
+        "name": "Minnesota",
+        "capital": "Saint Paul",
+        "lat": "44.95",
+        "long": "-93.094",
+        "continent": "North America",
+        "flag": "Flag_of_Minnesota",
+	"type": "state"
+    },
+    {
+        "abbr": "MS",
+        "name": "Mississippi",
+        "capital": "Jackson",
+        "lat": "32.320",
+        "long": "-90.207",
+        "continent": "North America",
+        "flag": "Flag_of_Mississippi",
+	"type": "state"
+    },
+    {
+        "abbr": "MO",
+        "name": "Missouri",
+        "capital": "Jefferson City",
+        "lat": "38.572954",
+        "long": "-92.189283",
+        "continent": "North America",
+        "flag": "Flag_of_Missouri",
+	"type": "state"
+    },
+    {
+        "abbr": "MT",
+        "name": "Montana",
+        "capital": "Helena",
+        "lat": "46.595805",
+        "long": "-112.027031",
+        "continent": "North America",
+        "flag": "Flag_of_Montana",
+	"type": "state"
+    },
+    {
+        "abbr": "NE",
+        "name": "Nebraska",
+        "capital": "Lincoln",
+        "lat": "40.809868",
+        "long": "-96.675345",
+        "continent": "North America",
+        "flag": "Flag_of_Nebraska",
+	"type": "state"
+    },
+    {
+        "abbr": "NV",
+        "name": "Nevada",
+        "capital": "Carson City",
+        "lat": "39.160949",
+        "long": "-119.753877",
+        "continent": "North America",
+        "flag": "Flag_of_Nevada",
+	"type": "state"
+    },
+    {
+        "abbr": "NH",
+        "name": "New Hampshire",
+        "capital": "Concord",
+        "lat": "43.220093",
+        "long": "-71.549127",
+        "continent": "North America",
+        "flag": "Flag_of_New_Hampshire",
+	"type": "state"
+    },
+    {
+        "abbr": "NJ",
+        "name": "New Jersey",
+        "capital": "Trenton",
+        "lat": "40.221741",
+        "long": "-74.756138",
+        "continent": "North America",
+        "flag": "Flag_of_New_Jersey",
+	"type": "state"
+    },
+    {
+        "abbr": "NM",
+        "name": "New Mexico",
+        "capital": "Santa Fe",
+        "lat": "35.667231",
+        "long": "-105.964575",
+        "continent": "North America",
+        "flag": "Flag_of_New_Mexico",
+	"type": "state"
+    },
+    {
+        "abbr": "NY",
+        "name": "New York",
+        "capital": "Albany",
+        "lat": "42.659829",
+        "long": "-73.781339", 
+        "continent": "North America",
+        "flag": "Flag_of_New_York",
+	"type": "state"
+    },
+    {
+        "abbr": "NC",
+        "name": "North Carolina",
+        "capital": "Raleigh",
+        "lat": "35.771",
+        "long": "-78.638",
+        "continent": "North America",
+        "flag": "Flag_of_North_Carolina",
+	"type": "state"
+    },
+    {
+        "abbr": "ND",
+        "name": "North Dakota",
+        "capital": "Bismarck",
+        "lat": "48.813343",
+        "long": "-100.779004",
+        "continent": "North America",
+        "flag": "Flag_of_North_Dakota",
+	"type": "state"
+    },
+    {
+        "abbr": "OH",
+        "name": "Ohio",
+        "capital": "Columbus",
+        "lat": "39.962245",
+        "long": "-83.000647",
+        "continent": "North America",
+        "flag": "Flag_of_Ohio",
+	"type": "state"
+    },
+    {
+        "abbr": "OK",
+        "name": "Oklahoma",
+        "capital": "Oklahoma City",
+        "lat": "35.482309",
+        "long": "-97.534994",
+        "continent": "North America",
+        "flag": "Flag_of_Oklahoma",
+	"type": "state"
+    },
+    {
+        "abbr": "OR",
+        "name": "Oregon",
+        "capital": "Salem",
+        "lat": "44.931109",
+        "long": "-123.029159",
+        "continent": "North America",
+        "flag": "Flag_of_Oregon",
+	"type": "state"
+    },
+    {
+        "abbr": "PA",
+        "name": "Pennsylvania",
+        "capital": "Harrisburg",
+        "lat": "40.269789",
+        "long": "-76.875613",
+        "continent": "North America",
+        "flag": "Flag_of_Pennsylvania",
+	"type": "state"
+    },
+    {
+        "abbr": "RI",
+        "name": "Rhode Island",
+        "capital": "Providence",
+        "lat": "41.82355",
+        "long": "-71.422132",
+        "continent": "North America",
+        "flag": "Flag_of_Rhode_Island",
+	"type": "state"
+    },
+    {
+        "abbr": "SC",
+        "name": "South Carolina",
+        "capital": "Columbia",
+        "lat": "34.000",
+        "long": "-81.035",
+        "continent": "North America",
+        "flag": "Flag_of_South_Carolina",
+	"type": "state"
+    },
+    {
+        "abbr": "SD",
+        "name": "South Dakota",
+        "capital": "Pierre",
+        "lat": "44.367966",
+        "long": "-100.336378",
+        "continent": "North America",
+        "flag": "Flag_of_South_Dakota",
+	"type": "state"
+    },
+    {
+        "abbr": "TN",
+        "name": "Tennessee",
+        "capital": "Nashville",
+        "lat": "36.165",
+        "long": "-86.784",
+        "continent": "North America",
+        "flag": "Flag_of_Tennessee",
+	"type": "state"
+    },
+    {
+        "abbr": "TX",
+        "name": "Texas",
+        "capital": "Austin",
+        "lat": "30.266667",
+        "long": "-97.75",
+        "continent": "North America",
+        "flag": "Flag_of_Texas",
+	"type": "state"
+    },
+    {
+        "abbr": "UT",
+        "name": "Utah",
+        "capital": "Salt Lake City",
+        "lat": "40.7547",
+        "long": "-111.892622",
+        "continent": "North America",
+        "flag": "Flag_of_Utah",
+	"type": "state"
+    },
+    {
+        "abbr": "VT",
+        "name": "Vermont",
+        "capital": "Montpelier",
+        "lat": "44.26639",
+        "long": "-72.57194",
+        "continent": "North America",
+        "flag": "Flag_of_Vermont",
+	"type": "state"
+    },
+    {
+        "abbr": "VA",
+        "name": "Virginia",
+        "capital": "Richmond",
+        "lat": "37.54",
+        "long": "-77.46",
+        "continent": "North America",
+        "flag": "Flag_of_Virginia",
+	"type": "state"
+    },
+    {
+        "abbr": "WA",
+        "name": "Washington",
+        "capital": "Olympia",
+        "lat": "47.042418",
+        "long": "-122.893077",
+        "continent": "North America",
+        "flag": "Flag_of_Washington",
+	"type": "state"
+    },
+    {
+        "abbr": "WV",
+        "name": "West Virginia",
+        "capital": "Charleston",
+        "lat": "38.349497",
+        "long": "-81.633294",
+        "continent": "North America",
+        "flag": "Flag_of_West_Virginia",
+	"type": "state"
+    },
+    {
+        "abbr": "WI",
+        "name": "Wisconsin",
+        "capital": "Madison",
+        "lat": "43.074722",
+        "long": "-89.384444",
+        "continent": "North America",
+        "flag": "Flag_of_Wisconsin",
+	"type": "state"
+    },
+    {
+        "abbr": "WY",
+        "name": "Wyoming",
+        "capital": "Cheyenne",
+        "lat": "41.145548",
+        "long": "-104.802042",
+        "continent": "North America",
+        "flag": "Flag_of_Wyoming",
+	"type": "state"
+    }
+]
